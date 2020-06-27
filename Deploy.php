@@ -66,6 +66,4 @@ img {vertical-align: middle;}
  <h1 class="w3-xxlarge">ATN toys shop</h1>
  </div>
 </header>
-
 </html>
- Inter
